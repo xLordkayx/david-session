@@ -60,7 +60,7 @@ router.get('/', async (req, res) => {
 ┏━━━━━━━━━━━━━━
 ┃REDHOOD SESSION IS 
 ┃SUCCESSFULLY
-┃CONNECTED ✅🔥
+┃CONNECTED ✅🔥😈
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❶ || Creator = †LORDKAY†
@@ -68,7 +68,7 @@ router.get('/', async (req, res) => {
 ❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VajNrqi7dmegpU2Yla1f
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Please Follow My Support Channel
-Wanna talk to me?👉 https://t.me/deecee_x 👈
+Wanna talk to me?👉 https://t.me/xlordkayx 👈
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ©*2024-2099 LORDKAY*
 
@@ -81,7 +81,7 @@ _Don't Forget To Give Star To My Repo_`
         return await removeFile('./temp/'+id);
             } else if (connection === "close" && lastDisconnect && lastDisconnect.error && lastDisconnect.error.output.statusCode != 401) {
                     await delay(10000);
-                    GIFTED_MD_PAIR_CODE();
+                    LORDKAY_PAIR_CODE();
                 }
             });
         } catch (err) {
@@ -92,6 +92,6 @@ _Don't Forget To Give Star To My Repo_`
          }
         }
     }
-    return await GIFTED_MD_PAIR_CODE()
+    return await LORDKAY_PAIR_CODE()
 });
 module.exports = router
